@@ -90,7 +90,7 @@ The model was trained in Google Colab using:
 The trained model achieved excellent classification performance on the test set.
 
 ### Test Results
-- Test accuracy: **1.00**
+- Test accuracy: **0.0968**
 
 ### Classification performance
 The confusion matrix and classification report showed perfect classification on the test set.
